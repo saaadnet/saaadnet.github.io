@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.saaad.net/taxonomy/term/616/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>السالوادور</title>
+    <link>http://www.saaad.net/taxonomy/term/616/all</link>
+    <description></description>
+    <language>fa</language>
+          <item>
+    <title> از انتخابات ریاست جمهوری السالوادور، چه می‌دانیم؟</title>
+    <link>http://www.saaad.net/read/279</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;سوالات رایج درباره انتخابات ریاست جمهوری سال ۲۰۱۴&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;تاریخ برگزاری انتخابات چه روزی است؟&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.6em;&quot;&gt;دور اول انتخابات ریاست جمهوری السالوادور روز ۲ فوریه برگزار شد و دور دوم آن روز ۹ مارس برگزار می‌شود .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;شهروندان در روز انتخابات به چه کسانی رأی می‌دهند؟&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;انتخابات&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;انتخابات ریاست جمهوری&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%88%D8%B1&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;السالوادور&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 06 Mar 2014 11:20:44 +0000</pubDate>
+ <dc:creator>smallmedia</dc:creator>
+ <guid isPermaLink="false">279 at http://www.saaad.net</guid>
+  </item>
+  <item>
+    <title>انتخابات ریاست جمهوری السالوادور</title>
+    <link>http://www.saaad.net/events/129</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;ul&gt;
+&lt;li dir=&quot;RTL&quot;&gt;نام رسمی کشور: جمهوری السالوادور&lt;/li&gt;
+&lt;li dir=&quot;RTL&quot;&gt;منطقه: آمریکا&lt;/li&gt;
+&lt;li dir=&quot;RTL&quot;&gt;جمعیت: ۶۱۰۸۵۹۰ نفر (طبق برآورد ژوئيه ۲۰۱۳)&lt;/li&gt;
+&lt;li dir=&quot;RTL&quot;&gt;انتخابات بعدی: دور دوم ریاست جمهوری، ۹ مارس ۲۰۱۴&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir=&quot;RTL&quot;&gt;&lt;strong style=&quot;line-height: 1.6em;&quot;&gt;ساختار حکومت السالوادور:&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 18 Oct 2013 16:16:13 +0000</pubDate>
+ <dc:creator>smallmedia</dc:creator>
+ <guid isPermaLink="false">129 at http://www.saaad.net</guid>
+  </item>
+  </channel>
+</rss>

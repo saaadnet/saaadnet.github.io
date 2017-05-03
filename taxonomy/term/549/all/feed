@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.saaad.net/taxonomy/term/549/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>تقلب انتخاباتی</title>
+    <link>http://www.saaad.net/taxonomy/term/549/all</link>
+    <description></description>
+    <language>fa</language>
+          <item>
+    <title>تشخیص تقلب انتخاباتی</title>
+    <link>http://www.saaad.net/read/632</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;نویسنده: رافائل لوپز-پینتور&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;تقلب انتخاباتی را می‌توان هر عملی دانست که برای مخدوش‌کردن فعالیت‌های انتخاباتی و لوازم مربوط به انتخابات صورت می‌گیرد تا بر نتیجه‌ انتخابات تاثیر گذارد، که ممکن است اراده‌ حقیقی رای‌دهندگان را مخدوش یا خنثی کند.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/%D8%AA%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;تخلفات انتخاباتی&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/%D8%AA%D9%82%D9%84%D8%A8-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;تقلب انتخاباتی&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 22 Aug 2014 15:32:12 +0000</pubDate>
+ <dc:creator>smallmedia</dc:creator>
+ <guid isPermaLink="false">632 at http://www.saaad.net</guid>
+  </item>
+  </channel>
+</rss>

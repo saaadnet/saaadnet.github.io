@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.saaad.net/taxonomy/term/587/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>آفریقای جنوبی</title>
+    <link>http://www.saaad.net/taxonomy/term/587/all</link>
+    <description></description>
+    <language>fa</language>
+          <item>
+    <title>انتخابات مجلس آفریقای جنوبی</title>
+    <link>http://www.saaad.net/events/153</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;ul&gt;
+&lt;li dir=&quot;RTL&quot;&gt;نام رسمی کشور: جمهوری آفریقای جنوبی&lt;/li&gt;
+&lt;li dir=&quot;RTL&quot;&gt;منطقه: آفریقا&lt;/li&gt;
+&lt;li dir=&quot;RTL&quot;&gt;جمعیت: ۴۶۸۰۱۰۹۸ نفر (طبق برآورد ژوئیه ۲۰۱۳)&lt;/li&gt;
+&lt;li dir=&quot;RTL&quot;&gt;انتخابات بعدی: انتخابات ریاست جمهوری در سال ۲۰۱۴&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 align=&quot;right&quot;&gt;&lt;strong style=&quot;line-height: 1.2em; font-size: 13px;&quot;&gt;ساختار حکومت آفریقای جنوبی&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li dir=&quot;RTL&quot;&gt;رئیس کشور: رئیس جمهور جاکوب زوما&lt;/li&gt;
+&lt;li dir=&quot;RTL&quot;&gt;رئیس دولت: رئیس جمهور جاکوب زوما&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 19 Nov 2013 16:45:55 +0000</pubDate>
+ <dc:creator>smallmedia</dc:creator>
+ <guid isPermaLink="false">153 at http://www.saaad.net</guid>
+  </item>
+  <item>
+    <title>سیستم‌های آفریقای جنوبی</title>
+    <link>http://www.saaad.net/read/94</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;span dir=&quot;RTL&quot;&gt;انتخابات مجلس ملی و استانی سال ۱۹۹۴ آفریقای جنوبی نقطه اوج دورانی مملو از تغییرات پرهیاهو بود. در جریان این تغییرات، نظام حکومتی کشورهای جنوب آفریقا از اقتدارگرایی به‌&lt;/span&gt; &lt;span dir=&quot;RTL&quot;&gt;سوی دموکراسی چند حزبی حرکت کرد. در نیمه‌شب ۲۷ آوریل ۱۹۹۴ پرچمی که شاید منفورترین پرچم در قاره آفریقا بود، پایین آمد و به این ترتیب دوران ۳۰۰ ساله استعمار و۴۰ سال تبعیض نژادی (آپارتاید) به پایان رسید. &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/%D8%A2%D9%81%D8%B1%DB%8C%D9%82%D8%A7%DB%8C-%D8%AC%D9%86%D9%88%D8%A8%DB%8C&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;آفریقای جنوبی&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;سیستم انتخاباتی&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 19 Sep 2013 17:12:21 +0000</pubDate>
+ <dc:creator>smallmedia</dc:creator>
+ <guid isPermaLink="false">94 at http://www.saaad.net</guid>
+  </item>
+  </channel>
+</rss>
